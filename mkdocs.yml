@@ -1,5 +1,4 @@
 site_name: My Blog
 theme:
   name: material
-  logo: /Fav.png
-  
+  logo: ./Fav.png
