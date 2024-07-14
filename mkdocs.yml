@@ -2,3 +2,7 @@ site_name: My Blog
 theme:
   name: material
   favicon: ./Fav.png
+
+
+nav:
+  - Home: ./index.md
