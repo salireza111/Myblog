@@ -24,18 +24,3 @@ function changeFavicon(src) {
     link.href = src;
 }
 
-// Detect visibility change
-document.addEventListener('visibilitychange', function () {
-    if (document.visibilityState === 'visible') {
-        changeFavicon('logofav.png'); // Path to your active (red) favicon
-    } else {
-        changeFavicon('logo copy.png'); // Path to your inactive (silver) favicon
-    }
-});
-
-// Initial state
-if (document.visibilityState === 'visible') {
-    changeFavicon('logofav.png');
-} else {
-    changeFavicon('logo copy.png');
-}
