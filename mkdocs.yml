@@ -5,6 +5,7 @@ theme:
   logo: ./Fav.png
 
 
+
   features:
     # - navigation.tabs
     - toc.integrate
@@ -25,13 +26,13 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/lightbulb-outline
         name: Switch to dark mode
       primary: white
       accent: red 
     - scheme: slate 
       toggle:
-        icon: material/toggle-switch
+        icon: material/lightbulb
         name: Switch to light mode    
       primary: white
       accent: amber
