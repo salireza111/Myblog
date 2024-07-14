@@ -36,7 +36,7 @@
 
 .toggle-button {
     background: #ffffff00;
-    color: white;
+    color: rgb(0, 0, 0);
     border: none;
     padding: 10px;
     cursor: pointer;
