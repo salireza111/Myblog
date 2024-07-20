@@ -40,6 +40,9 @@ theme:
 extra:
   version:
     provider: mike
+  analytics:
+    provider: google
+    property: G-E0LRHP3YK3
 
 markdown_extensions:
   - attr_list
