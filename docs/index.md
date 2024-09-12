@@ -1,5 +1,18 @@
 # Raw soup in a Raw ware
 
+## Sep | 2024
+
+<div class="grid cards" markdown>
+-   🛠️ __Frank is Back__
+
+    ---
+
+    Sep 13, 2024
+
+    [:octicons-arrow-right-24: More](./Texts/13/13.md)
+</div>
+
+
 ## Jul | 2024
 
 <div class="grid cards" markdown>
