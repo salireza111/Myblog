@@ -1,5 +1,17 @@
 # Raw soup in a Raw ware
 
+## Nov | 2024
+
+<div class="grid cards" markdown>
+-   🛠️ __Old Fashion Frankenstein__
+
+    ---
+
+    Nov 24, 2024
+
+    [:octicons-arrow-right-24: More](./Texts/17/17.md)
+</div>
+
 ## Sep | 2024
 
 <div class="grid cards" markdown>
