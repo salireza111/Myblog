@@ -3,7 +3,7 @@
 ## Nov | 2024
 
 <div class="grid cards" markdown>
--   🛠️ __Old Fashion Frankenstein__
+-   🛠️ __Old Fashioned Frankenstein__
 
     ---
 
