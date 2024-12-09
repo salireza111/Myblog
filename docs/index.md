@@ -1,5 +1,17 @@
 # Raw soup in a Raw ware
 
+## Dec | 2024
+
+<div class="grid cards" markdown>
+-   🛠️ __Ramachandran Viewer__
+
+    ---
+
+    Dec 24, 2024
+
+    [:octicons-arrow-right-24: More](./Texts/19/19.md)
+</div>
+
 ## Nov | 2024
 
 <div class="grid cards" markdown>
