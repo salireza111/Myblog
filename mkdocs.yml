@@ -41,9 +41,8 @@ extra:
   version:
     provider: mike
   analytics:
-    provider: umami
-    id: dfd7b93e-567e-445e-b149-d281f1c8b8a6
-    domain: cloud.umami.is
+    provider: google
+    property: G-E0LRHP3YK3
 
 markdown_extensions:
   - attr_list
@@ -75,7 +74,6 @@ extra_css:
   - ./extra.css
 extra_javascript:
   - ./extra.js
-  - https://cloud.umami.is/script.js
 
 plugins:
   - search
