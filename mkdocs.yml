@@ -75,6 +75,7 @@ extra_css:
   - ./extra.css
 extra_javascript:
   - ./extra.js
+  - https://cloud.umami.is/script.js
 
 plugins:
   - search
