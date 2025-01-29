@@ -3,13 +3,6 @@
 ## Jan | 2025
 
 <div class="grid cards" markdown>
--   🪑__Relax Bench __
-
-    ---
-
-    Jan 24, 2025
-
-    [:octicons-arrow-right-24: More](./Texts/23/23.md)
 
 -    __🔮 AR PDB Visualizer__
 
@@ -18,6 +11,14 @@
     Jan 29, 2025
     
     [:octicons-arrow-right-24: More](./Texts/29/29.md)
+
+-   🪑__Relax Bench __
+
+    ---
+
+    Jan 24, 2025
+
+    [:octicons-arrow-right-24: More](./Texts/23/23.md)
 </div>
 
 
