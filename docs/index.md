@@ -24,9 +24,6 @@
     Jan , 2025
     
     [:octicons-arrow-right-24: More](./Texts/0/01.md)
-</div>
-
-<div class="grid cards" markdown>
 
 -    __📄 The Quest!__
 
