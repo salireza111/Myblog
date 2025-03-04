@@ -13,6 +13,30 @@
     [:octicons-arrow-right-24: More](./Texts/31/31.md)
 </div>
 
+## AdaptyvBio | EGFR Design Competition
+
+<div class="grid cards" markdown>
+
+-    __📄 The Question!__
+
+    ---
+
+    Jan , 2025
+    
+    [:octicons-arrow-right-24: More](./Texts/0/01.md)
+</div>
+
+<div class="grid cards" markdown>
+
+-    __📄 The Quest!__
+
+    ---
+
+    Jan , 2025
+    
+    [:octicons-arrow-right-24: More](./Texts/0/02.md)
+</div>
+
 ## Jan | 2025
 <div class="grid cards" markdown>
 
