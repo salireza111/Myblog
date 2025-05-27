@@ -78,10 +78,6 @@ extra_javascript:
 
 plugins:
   - search
-  - sitemap:                
-      changefreq: daily
-      priority: 0.5
-  
 
 nav:
   - Home: ./index.md
