@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://salireza111.github.io/Myblog/sitemap.xml
