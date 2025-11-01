@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     var toggleButton = document.createElement('button');
-    toggleButton.innerText = '☰'; // You can use any symbol or text here
+    toggleButton.innerText = '☰'; 
     toggleButton.className = 'toggle-button';
     
     toggleButton.addEventListener('click', function() {

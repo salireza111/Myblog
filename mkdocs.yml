@@ -43,7 +43,7 @@ extra:
     provider: mike
   analytics:
     provider: google
-    property: G-E0LRHP3YK3
+    property: G-Y4PTMWQ771
 
 markdown_extensions:
   - attr_list
