@@ -1,0 +1,60 @@
+@media (max-width: 1220px) {
+    .toggle-button {
+        display: none;
+        visibility: hidden;
+    }
+    .md-sidebar.hidden {
+        transform: none;
+    }
+    .md-sidebar + .md-main {
+        margin-left: 0;
+    }
+}
+
+
+.md-header__button.md-logo {
+    margin-top: 1;
+    margin-bottom: 1;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+    height: auto;  
+    width: 40px;  
+}
+
+.md-header__title {
+    display: inline-block; 
+    vertical-align: middle; 
+}
+
+
+
+ 
+
+.toggle-button {
+    background: #ffffff00;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 25px;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+    z-index: 1000;
+}
+
+.md-sidebar.hidden {
+    display: none;
+}
+
+/* Adjustments to prevent content shift when sidebar is hidden */
+.md-sidebar.hidden + .md-main {
+    margin-left: 0;
+}
+
+
+   
